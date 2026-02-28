@@ -16,14 +16,14 @@
 
 ### 方式一：下载可执行文件（推荐）
 
+**Gitee Release**：
+- 前往 [发行版](https://gitee.com/nanianxiatianxy/baige-cal/releases/tag/v1.0.0) 页面
+- 下载最新版本的exe文件
+
 **GitHub Release**：
 - 前往 [Releases](https://github.com/nanianxiatian/baige-cal/releases/tag/v1.0.0) 页面
 - 下载最新版本的 `yys_speed_calc_v4.exe`
 - 双击运行即可使用，无需安装Python
-
-**Gitee Release**：
-- 前往 [发行版](https://gitee.com/nanianxiatianxy/baige-cal/releases/tag/v1.0.0) 页面
-- 下载最新版本的exe文件
 
 ### 方式二：运行Python源码
 
