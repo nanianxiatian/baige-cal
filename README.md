@@ -29,7 +29,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/nanianxiatian/baige-cal.git
+git clone https://gitee.com/nanianxiatianxy/baige-cal.git
 
 # 进入目录
 cd 仓库名
